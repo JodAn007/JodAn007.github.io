@@ -1,0 +1,45 @@
+body{
+    background-image: url("assets/background.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.quote{
+    font-family: "Edu AU VIC WA NT Pre", sans-serif;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+.Squary{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #e0dce5;
+    font-size: 1.5rem;
+    width: 60%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.text-img{
+    display: flex;
+    align-items: center;
+}
+
+.first-text{
+    margin-right: 3%;
+}
+
+.Bulbasaur{
+    width: 30%;
+    height: 50%;
+}
+
+.xkcd{
+    width: 40%;
+    height: 40%;
+}
